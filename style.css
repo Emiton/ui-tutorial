@@ -22,3 +22,12 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+#client-list-ul{
+    max-width: 500px;
+    background-color: #fffbfb;
+    padding: 20px 20px 5px;
+    margin: 20px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px #d3d1dd;
+}
