@@ -30,5 +30,15 @@ body {
     margin: 20px 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 20px #d3d1dd;
-    display: none;
+}
+
+#client-list-ul li {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #f5f5f5;
+    list-style: none;
+}
+
+#client-list-ul li:last-child {
+    border-bottom: none;
 }
